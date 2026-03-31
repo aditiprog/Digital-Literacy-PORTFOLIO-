@@ -1,3 +1,5 @@
+![save](https://github.com/user-attachments/assets/04d1cac3-be24-4f6c-b7ae-d962e91823d0)
+<img width="1080" height="1458" alt="WhatsApp Image 2026-03-31 at 3 28 32 PM" src="https://github.com/user-attachments/assets/291f8534-1c88-4713-845c-76727c69dc8d" />
 # Task 2: Student Digital Portfolio
 
 ## 📌 Overview
