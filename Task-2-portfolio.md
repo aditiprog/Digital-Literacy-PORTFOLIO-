@@ -1,5 +1,4 @@
-![save](https://github.com/user-attachments/assets/04d1cac3-be24-4f6c-b7ae-d962e91823d0)
-<img width="1080" height="1458" alt="WhatsApp Image 2026-03-31 at 3 28 32 PM" src="https://github.com/user-attachments/assets/291f8534-1c88-4713-845c-76727c69dc8d" />
+
 # Task 2: Student Digital Portfolio
 
 ## 📌 Overview
@@ -11,15 +10,17 @@ This project focuses on building my **student digital portfolio** by creating an
 - **Purpose:** Professional networking, career building, and showcasing achievements.  
 - **Usage Plan:** Connect with industry experts, share projects, and prepare for placements.  
 - **Profile:** [LinkedIn Profile](https://www.linkedin.com/in/aditi-sharma-developer?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
- [screenshots] (https://1drv.ms/i/c/a48f5d48db2b384b/IQDdSyIBsN0xQpn94mO2EJ0uARofIFXGfchS7uybU-ubiKM?e=b6vDUG)
- (https://1drv.ms/i/c/a48f5d48db2b384b/IQDNmtWb9FC0RIPpIbXXT11BAbZjxdjUWMV5xws76w1wlF8?e=ZrJScF)
- (https://1drv.ms/i/c/a48f5d48db2b384b/IQCpY7XsSTPYT4BVZr2CIybSAXjfFnVqXYigkX_IxO6ys8E?e=VpgDUV)
+ [screenshots] ![save](https://github.com/user-attachments/assets/0818be65-bb9e-465d-9d86-f5f6afd75344)
+![save](https://github.com/user-attachments/assets/f7c4cef8-a214-45ce-894f-cf80b0cf1523)
+<img width="1080" height="1458" alt="WhatsApp Image 2026-03-31 at 3 28 32 PM" src="https://github.com/user-attachments/assets/3cc07dce-f05e-4781-a9df-3ca1e56c7874" />
+
 
 ### 📚 ResearchGate
 - **Purpose:** Academic research sharing, collaboration, and accessing scholarly resources.  
 - **Usage Plan:** Follow cybersecurity research, access papers, and publish my own work during my degree.  
 - **Profile:** [ResearchGate Profile](https://www.researchgate.net/profile/Aditi-Sharma-242?ev=hdr_xprf)
-[screenshots](c:\Users\sharm\OneDrive\Pictures\Screenshots\Screenshot 2026-03-25 015123.png)
+[screenshots]<img width="1330" height="506" alt="Screenshot 2026-03-25 015123" src="https://github.com/user-attachments/assets/eaa4f49f-aade-45a7-bf0c-73b6f1dc0ec9" />
+
 
 ### 💻 GitHub
 - **Purpose:** Version control, collaborative coding, and portfolio building.  
@@ -36,4 +37,4 @@ This project focuses on building my **student digital portfolio** by creating an
 ## 📝 Summary
 Together, these platforms—LinkedIn, ResearchGate, GitHub, Kaggle, and Stack Overflow—will help me grow academically, professionally, and technically. By consistently engaging with them, I aim to build a strong digital presence, expand my knowledge, and prepare myself for future opportunities in both research and industry.
 
-
+# screenshots: 
