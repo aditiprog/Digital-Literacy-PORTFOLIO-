@@ -1,0 +1,40 @@
+# Phishing Case Study: VIT Student's Scholarship Scam (2023)
+
+## Crime Overview
+
+Phishing is a cybercrime where attackers impersonate trusted entities to steal sensitive data such as login credentials, bank details, or Aadhaar numbers via deceptive emails or SMS.
+
+# How It Happens (Step-by-Step)
+
+Victim receives an urgent email/SMS from a fake "VIT Scholarships Office" (spoofed sender: scholarships@vitbhopal.co.in).
+
+Message claims: "Congratulations! Claim your ₹10,000 scholarship—verify via link before deadline."
+
+Link leads to a cloned VIT login page (vitbhopal-login[.]com) requesting ID, password, and UPI PIN.
+
+Victim enters details; attackers harvest data in real-time.
+
+Stolen information is used for account takeovers, UPI fraud, or identity theft.
+
+## Targets
+
+College students (18–22 years), especially in India.
+
+Lured by scholarships, internships, or fee waivers.
+
+VIT Bhopal reported 15+ cases in 2023 (Times of India, Oct 2023; cybercrime.gov.in reports).
+
+## Consequences
+
+One VIT forensic chemistry student lost ₹45,000 via unauthorized UPI transfers.
+
+Faced credit score damage and weeks resolving identity theft.
+
+Emotional toll included anxiety; academic impact included delayed projects.
+
+Nationally, phishing caused ₹1,300 crore losses in 2023 (RBI data).
+
+Victims often face legal scrutiny if stolen identities are misused for further crimes.
+
+3# Key Takeaway:
+Phishing scams exploit urgency and trust. Students must verify sources, avoid clicking suspicious links, and report incidents promptly to prevent financial and personal damage.
