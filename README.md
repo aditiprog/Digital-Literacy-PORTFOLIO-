@@ -131,17 +131,17 @@ By completing this project, students will:
   
 ## Useful Links Quick Reference
 # URL 
-canva.com 
-slidescarnival.com 
-prezi.com
-github.com 
-linkedin.com 
-kaggle.com 
-hackerrank.com 
-codechef.com 
-forms.google.com 
-cybercrime.gov.in 
-Crime Helpline 1930 (24x7 phone)
+- canva.com 
+- slidescarnival.com 
+- prezi.com
+- github.com 
+- linkedin.com 
+- kaggle.com 
+- hackerrank.com 
+- codechef.com 
+- forms.google.com 
+- cybercrime.gov.in 
+- Crime Helpline 1930 (24x7 phone)
 
 # PROJECT BY- ADITI SHARMA
 ## 25BCY10070 (CSE- CYBER SECURITY AND DIGITAL FORENSICS)
