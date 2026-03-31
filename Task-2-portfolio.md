@@ -40,4 +40,4 @@ This project focuses on building my **student digital portfolio** by creating an
 ## 📝 Summary
 Together, these platforms—LinkedIn, ResearchGate, GitHub, Kaggle, and Stack Overflow—will help me grow academically, professionally, and technically. By consistently engaging with them, I aim to build a strong digital presence, expand my knowledge, and prepare myself for future opportunities in both research and industry.
 
-# screenshots: 
+# ADITI SHARMA 25BCY10070
