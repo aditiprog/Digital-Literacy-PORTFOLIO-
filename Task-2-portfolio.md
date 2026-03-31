@@ -11,8 +11,9 @@ This project focuses on building my **student digital portfolio** by creating an
 - **Usage Plan:** Connect with industry experts, share projects, and prepare for placements.  
 - **Profile:** [LinkedIn Profile](https://www.linkedin.com/in/aditi-sharma-developer?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
  [screenshots] ![save](https://github.com/user-attachments/assets/0818be65-bb9e-465d-9d86-f5f6afd75344)
-![save](https://github.com/user-attachments/assets/f7c4cef8-a214-45ce-894f-cf80b0cf1523)
 <img width="1080" height="1458" alt="WhatsApp Image 2026-03-31 at 3 28 32 PM" src="https://github.com/user-attachments/assets/3cc07dce-f05e-4781-a9df-3ca1e56c7874" />
+![WhatsApp Image 2026-03-31 at 3 28 33 PM](https://github.com/user-attachments/assets/a52394c7-42ab-4518-ad4b-f8884ffca424)
+
 
 
 ### 📚 ResearchGate
@@ -26,12 +27,14 @@ This project focuses on building my **student digital portfolio** by creating an
 - **Purpose:** Version control, collaborative coding, and portfolio building.  
 - **Usage Plan:** Document projects, contribute to open-source repositories, and highlight programming/cybersecurity skills.  
 - **Profile:** [GitHub Profile](https://github.com/aditiprog)
-[Screenshots](c:\Users\sharm\OneDrive\Documents\WhatsApp Image 2026-03-31 at 3.46.10 PM.jpeg)
+[Screenshots]![WhatsApp Image 2026-03-31 at 3 46 10 PM](https://github.com/user-attachments/assets/6bf7a177-eedc-4206-b076-32db40796bb4)
+
 ### 📊 Kaggle
 - **Purpose:** Data science and machine learning competitions, datasets, and community learning.  
 - **Usage Plan:** Participate in challenges, practice problem-solving, and learn from shared kernels.  
 - **Profile:** [Kaggle Profile](https://www.kaggle.com/aditisharma2103)
-[screenshots](c:\Users\sharm\OneDrive\Documents\kaggle.jpeg)
+[screenshots]![kaggle](https://github.com/user-attachments/assets/d7408022-7a10-4de6-85ca-3472cfc3021c)
+
 ---
 
 ## 📝 Summary
